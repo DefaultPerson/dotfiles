@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.debugpy",
+    "ms-python.black-formatter",
+    "charliermarsh.ruff",
+    "ms-python.vscode-pylance",
+    "njpwerner.autodocstring",
+    "ritwickdey.LiveServer",
+    "KevinRose.vsc-python-indent",
+    "esbenp.prettier-vscode",
+    "redhat.vscode-yaml",
+    "tamasfe.even-better-toml",
+    "yy0931.vscode-sqlite3-editor",
+    "usernamehw.errorlens",
+    "christian-kohler.path-intellisense",
+    "PKief.material-icon-theme",
+    "GitHub.github-vscode-theme",
+    "k--kato.intellij-idea-keybindings",
+    "mikestead.dotenv",
+    "yzhang.markdown-all-in-one",
+    "formulahendry.auto-rename-tag"
+  ],
+  "unwantedRecommendations": []
+}

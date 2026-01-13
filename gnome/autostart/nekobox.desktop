@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=nekobox
+Exec=/opt/nekoray-4.0.1-2024-12-12-linux64/nekoray/nekobox
+Icon=/opt/nekoray-4.0.1-2024-12-12-linux64/nekoray/nekobox.png
+Type=Application
+Categories=Network;
+StartupNotify=true
+Terminal=False

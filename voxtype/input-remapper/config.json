@@ -1,0 +1,6 @@
+{
+    "version": "2.2.0",
+    "autoload": {
+        "VXE VXE Mouse 1K Dongle": "main_preset"
+    }
+}

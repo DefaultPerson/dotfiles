@@ -1,0 +1,11 @@
+appindicatorsupport@rgcjonas.gmail.com
+auto-move-windows@gnome-shell-extensions.gcampax.github.com
+blur-my-shell@aunetx
+caffeine@patapon.info
+clipboard-indicator@tudmotu.com
+CoverflowAltTab@palatis.blogspot.com
+dash-to-dock@micxgx.gmail.com
+gsconnect@andyholmes.github.io
+just-perfection-desktop@just-perfection
+tilingshell@ferrarodomenico.com
+window-title-is-back@fthx

@@ -1,0 +1,38 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 274,
+                "origin_hash": "f36be702b604d8652fb0e5fe5054c540"
+            }
+        ],
+        "target_uinput": "keyboard + mouse",
+        "output_symbol": "if_tap(key(BTN_MIDDLE), hold(Pause), 400)",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 276,
+                "origin_hash": "f36be702b604d8652fb0e5fe5054c540"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Alt_L+Left",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 275,
+                "origin_hash": "f36be702b604d8652fb0e5fe5054c540"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Alt_L+Right",
+        "mapping_type": "key_macro"
+    }
+]

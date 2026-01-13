@@ -1,0 +1,69 @@
+{
+  "terminal.integrated.tabs.title": "${sequence}",
+  "terminal.integrated.tabs.description": "${process}",
+  "window.commandCenter": true,
+  "workbench.colorTheme": "GitHub Dark",
+  "makefile.configureOnOpen": false,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 12,
+  "editor.lineHeight": 1.5,
+  "editor.rulers": [88],
+  "breadcrumbs.enabled": false,
+  "explorer.autoReveal": false,
+  "explorer.compactFolders": false,
+  "update.releaseTrack": "prerelease",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "workbench.editor.pinnedTabsOnSeparateRow": true,
+  "files.exclude": {
+    "/pycache": true,
+    "/.pytest_cache": true,
+    "/.vscode": true,
+    "/*.pyc": true,
+    "/build": true,
+    "/cdk.out": true,
+    "/dist": true,
+    "/node_modules": true
+  },
+  "python.analysis.exclude": ["/build", "/dist", "/env", "/.venv", "/venv"],
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "workbench.editor.wrapTabs": true,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "git.autoRepositoryDetection": "subFolders",
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.autoSearchPaths": true,
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.completeFunctionParens": true,
+  "python.analysis.inlayHints.variableTypes": true,
+  "python.analysis.inlayHints.functionReturnTypes": true,
+  "python.analysis.importFormat": "absolute",
+  "python.analysis.enablePytestSupport": true,
+  "python.analysis.indexing": true,
+
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports.ruff": "explicit",
+      "source.fixAll.ruff": "explicit"
+    }
+  },
+
+  "git.enableSmartCommit": true,
+  "material-icon-theme.folders.theme": "classic",
+  "search.exclude": {
+    "/pycache": true
+  },
+
+  "ruff.lint.enable": true,
+  "ruff.nativeServer": "on",
+
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
