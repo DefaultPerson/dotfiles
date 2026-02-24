@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Throne
+Exec=/home/def/.local/share/throne/Throne/Throne -tray
+Terminal=false
+Categories=Network
+Type=Application
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
