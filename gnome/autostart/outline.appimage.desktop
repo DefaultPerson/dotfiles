@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Version=1.0
-Name=outline.appimage
-Comment=outline.appimagestartup script
-Exec=/home/def/AppImages/outline.appimage
-StartupNotify=false
-Terminal=false

@@ -1,0 +1,8 @@
+app.zen_browser.zen
+com.anydesk.Anydesk
+com.getpostman.Postman
+com.github.qarmin.czkawka
+com.mattjakeman.ExtensionManager
+it.mijorus.gearlever
+nl.hjdskes.gcolor3
+org.qbittorrent.qBittorrent
